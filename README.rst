@@ -1,11 +1,11 @@
 python-rexpression
 ==========================
-.. image:: https://secure.travis-ci.org/lambdalisue/rexpression.svg?branch=master
-    :target: http://travis-ci.org/lambdalisue/rexpression
+.. image:: https://secure.travis-ci.org/lambdalisue/python-rexpression.svg?branch=master
+    :target: http://travis-ci.org/lambdalisue/python-rexpression
     :alt: Build status
 
-.. image:: https://coveralls.io/repos/lambdalisue/rexpression/badge.svg?branch=master
-    :target: https://coveralls.io/r/lambdalisue/rexpression/
+.. image:: https://coveralls.io/repos/lambdalisue/python-rexpression/badge.svg?branch=master
+    :target: https://coveralls.io/r/lambdalisue/python-rexpression/
     :alt: Coverage
 
 .. image:: https://img.shields.io/pypi/dm/rexpression.svg
@@ -56,7 +56,7 @@ Installation
 ------------
 Use pip_ like::
 
-    $ pip install python-rexpression
+    $ pip install rexpression
 
 .. _pip:  https://pypi.python.org/pypi/pip
 
